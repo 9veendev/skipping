@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url(./smiling-young-sportsman-holding-skipping-rope-min.jpg) no-repeat;
+    background-size: cover;
+}
+.text-center{
+    margin-right: 250px;
+    margin-top: 150px;
+    color:  #5e280f;
+}
+.text-center p{
+   color: white;
+}
+.text-center h1{
+    font-family: 'Henny Penny', cursive;
+
+}
+summary{
+    color: #5e280f;
+}
+.footer{
+    text-align: center;
+    
+}
