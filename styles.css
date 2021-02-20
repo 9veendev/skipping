@@ -20,7 +20,7 @@ body{
 }
 summary{
     color: #5e280f;
-    margin-top: 100px;
+    margin-top: 60px;
 }
 .footer{
     text-align: center;
@@ -29,3 +29,13 @@ summary{
 .footer i{
     letter-spacing: 15px;
 }
+.img-circle{
+    margin-left: 930px;
+}
+
+
+@media only screen and (min-width: 400px) {
+    .gif-img{
+        margin-left: 200px;
+    }
+  }
