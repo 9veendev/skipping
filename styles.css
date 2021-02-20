@@ -3,10 +3,8 @@
     padding: 0;
 }
 body{
-    background: url(./smiling-young-sportsman-holding-skipping-rope-min.jpg);
+    background: url(./smiling-young-sportsman-holding-skipping-rope-min.jpg) no-repeat;
     background-size: cover;
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
 }
 .text-center{
     margin-right: 270px;
@@ -31,13 +29,3 @@ summary{
 .footer i{
     letter-spacing: 15px;
 }
-.img-circle{
-    margin-left: 930px;
-}
-
-
-@media only screen and (min-width: 400px) {
-    .gif-img{
-        margin-left: 200px;
-    }
-  }
