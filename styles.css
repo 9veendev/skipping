@@ -32,3 +32,10 @@ summary{
 .img-circle{
     margin-left: 930px;
 }
+
+
+@media only screen and (min-width: 400px) {
+    .gif-img{
+        margin-left: 200px;
+    }
+  }
