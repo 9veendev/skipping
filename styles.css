@@ -14,7 +14,7 @@ body{
     color:  #5e280f;
 }
 .text-center p{
-   color: white;
+   color: #0696d8;
 }
 .text-center h1{
     font-family: 'Henny Penny', cursive;
@@ -22,7 +22,7 @@ body{
 }
 summary{
     color: #5e280f;
-    margin-top: 110px;
+    margin-top: 105px;
 }
 .footer{
     text-align: center;
