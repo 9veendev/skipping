@@ -7,8 +7,8 @@ body{
     background-size: cover;
 }
 .text-center{
-    margin-right: 250px;
-    margin-top: 150px;
+    margin-right: 270px;
+    margin-top: 140px;
     color:  #5e280f;
 }
 .text-center p{
@@ -16,12 +16,19 @@ body{
 }
 .text-center h1{
     font-family: 'Henny Penny', cursive;
-
+    font-size: 50px;
 }
 summary{
     color: #5e280f;
+    margin-top: 60px;
 }
 .footer{
     text-align: center;
-    
+    margin-top: 50px;
+}
+.footer i{
+    letter-spacing: 15px;
+}
+.img-circle{
+    margin-left: 930px;
 }
