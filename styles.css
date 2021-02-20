@@ -5,6 +5,7 @@
 body{
     background: url(./smiling-young-sportsman-holding-skipping-rope-min.jpg) no-repeat;
     background-size: cover;
+    background-size: contain;
 }
 .text-center{
     margin-right: 270px;
